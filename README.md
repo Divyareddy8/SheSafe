@@ -1,1 +1,0 @@
-#SheSafe - WomenSafetyPlatform
